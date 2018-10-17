@@ -4,3 +4,7 @@ in clinical practice. The severity of HF can also be estimated by the level of c
 to determine the dosage and methodology of AAV based gene therapy. Therefore, we invented a software which can adopt the BNP expression 
 level in patients' blood to reckon the level of calcium leakage, to choose of different AAVs and the to discriminate of expressing 
 promoters.
+
+Running on matlab
+
+Oue  web：http://2018.igem.org/Team:SMMU-China/Software
